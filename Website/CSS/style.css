@@ -1,0 +1,25 @@
+#div01 {background-color: red}
+#div02 {background-color: red}
+#div03 {background-color: red}
+#div04 {background-color: red}
+#header01 {background-color: red}
+#body02 {background-color: red}
+
+form {background-color: blue;
+      font-style: bold;
+      color: white;}
+  h2 { color: blue;
+      text-decoration: underline;}
+  #para01 {font-size: 22pt;
+    color: white;
+
+  }
+  #para02 {font-size: 16pt;
+    color: blue;
+  }
+  ul {font-style: italic;}
+  body {background-color: red;}
+  href {color: purple;
+  }
+
+      </style>
